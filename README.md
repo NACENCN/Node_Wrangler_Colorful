@@ -1,6 +1,7 @@
-# Node Wrangler Colorful (炫彩节点牧人) ✨
+## Node Wrangler Colorful (炫彩节点牧人) ✨
 
 一款基于 Blender 官方 Node Wrangler 深度定制的增强版插件。它不仅继承了原版强大的节点管理能力，还引入了令人心动的流光视觉特效和全动态中英双语支持。
+Blender版本支持4.2+，更低版本未被测试，炫彩版原版由Blender超级技术交流社制作，该仓库为我的个人分支
 <img width="1920" height="1027" alt="炫彩牧人_NACEN" src="https://github.com/user-attachments/assets/872dfeda-2e42-45b5-86ab-42d2f0551551" />
 
 ---
